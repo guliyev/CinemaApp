@@ -1,0 +1,11 @@
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\bin\Debug\Sinema.exe
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\bin\Debug\Sinema.pdb
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.Form1.resources
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\GN\Desktop\sinema\Sinema\Sinema\obj\Debug\Sinema.Form2.resources
